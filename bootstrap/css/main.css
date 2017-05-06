@@ -1,0 +1,67 @@
+
+
+.mobilbosluk{
+    margin-top: 20px;
+}
+.none479{
+    display: block;
+}
+.display479{
+    display: none;
+}
+.left{
+    min-height: 818px !important;
+}
+.right {
+    min-height: 818px !important;
+}
+.giristop{
+    margin-top: 75px;
+    margin-bottom: 0px;
+}
+.ekleformstyle{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.eklebuton{
+    margin-top: 20px;
+}
+.yetenek_listesi {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.yetenek_listesi li {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid rgba(0,0,0,0.2);
+  margin-bottom: 10px;
+}
+
+.yetenekkutu{
+    height: 20px;
+    float: left;
+
+}
+.yetenektext{
+    margin-left: 10px;
+    font-size: 16px;
+    line-height: 28px;
+    height: 30px;
+    color: #666;
+    float: left;
+}
+.rating-container .caption{
+    display: none;
+}
+.nav-tabs > li.active > a:hover{
+    border-top: 1px solid #ddd !important;
+}
+.nav-tabs > li.active > a {
+    color: #333333 !important;
+    font-size: 14px !important;
+    font-weight:bold !important;
+}
+
